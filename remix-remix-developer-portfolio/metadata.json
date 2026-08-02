@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Developer Portfolio",
+  "description": "A modern developer portfolio showcasing latest projects, skills, interactive project filters, and contact details. ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
